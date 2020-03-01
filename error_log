@@ -1,0 +1,2 @@
+[29-Feb-2020 12:42:31 UTC] PHP Notice:  Undefined index: guests in /home/vetiam/cubancloud.net/mail.php on line 11
+[29-Feb-2020 12:42:31 UTC] PHP Notice:  Undefined index: date in /home/vetiam/cubancloud.net/mail.php on line 12
